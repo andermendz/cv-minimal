@@ -23,7 +23,7 @@ export default function Works({ forwardedRef }) {
             alt="IBGroup vietnam website mockup"
             name="ibgroup vietnam website"
             type="Web Design • Frontend Development"
-            year="2023"
+            year="2024"
             tools="HTML • TailwindCSS • JavaScript • Figma"
 
           />
@@ -36,7 +36,7 @@ export default function Works({ forwardedRef }) {
             alt="memento landing page mockup"
             name="memento studio landing page"
             type="Frontend Development"
-            year="2023"
+            year="2024"
             tools="HTML • TailwindCSS • JavaScript"
           />
         </div>
@@ -47,18 +47,18 @@ export default function Works({ forwardedRef }) {
             alt="real business accountant project mockup"
             name="real business accountants"
             type="Web Design • Frontend Development"
-            year="2023"
+            year="2024"
             tools="HTML • CSS • JavaScript • Figma"
           />
         </div>
-        <div className="col-span-1 h-fit pt-0 md:col-span-8 md:pt-20">
+        <div className="col-span-1 h-fit pt-0 md:col-span-8 md:pt-20"4
           <Projects
             link="https://godaddyuiclone.netlify.app"
             img={daddy}
             alt="godaddy clone page mockup"
             name="GODADDY LANDING PAGE CLONE"
             type="Frontend Development"
-            year="2023"
+            year="2024"
             tools="HTML • TailwindCSS • JavaScript"
           />
         </div>
@@ -69,7 +69,7 @@ export default function Works({ forwardedRef }) {
             alt="sunnyside project mockup"
             name="SUNNYSIDE LANDING PAGE"
             type="Frontend Development"
-            year="2022"
+            year="2024"
             tools="HTML • TailwindCSS • JavaScript"
           />
          
