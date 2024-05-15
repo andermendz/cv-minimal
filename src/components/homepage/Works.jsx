@@ -13,10 +13,10 @@ export default function Works({ forwardedRef }) {
       id="works"
       className="nav-change overflow-hidden my-[10%]"
     >
-     <Heading title="Projects" />
+      <Heading title="Projects" />
       <div className="mt-10 grid grid-cols-1 gap-16 gap-y-10 md:grid-cols-12">
         {/* Project #1 */}
-        <div className=" col-span-1 md:col-span-12">
+        <div className="col-span-1 md:col-span-12">
           <Projects
             link="https://musical-stroopwafel-1c2327.netlify.app/landing.html"
             img={ibgroup}
@@ -25,7 +25,6 @@ export default function Works({ forwardedRef }) {
             type="Web Design • Frontend Development"
             year="2024"
             tools="HTML • TailwindCSS • JavaScript • Figma"
-
           />
         </div>
         {/* Project #2 */}
@@ -51,7 +50,7 @@ export default function Works({ forwardedRef }) {
             tools="HTML • CSS • JavaScript • Figma"
           />
         </div>
-        <div className="col-span-1 h-fit pt-0 md:col-span-8 md:pt-20"4
+        <div className="col-span-1 h-fit pt-0 md:col-span-8 md:pt-20">
           <Projects
             link="https://godaddyuiclone.netlify.app"
             img={daddy}
@@ -63,7 +62,7 @@ export default function Works({ forwardedRef }) {
           />
         </div>
         <div className="col-span-1 h-fit md:col-span-4">
-        <Projects
+          <Projects
             link="https://sunnysidechallenge.netlify.app"
             img={sunnyside}
             alt="sunnyside project mockup"
@@ -72,7 +71,6 @@ export default function Works({ forwardedRef }) {
             year="2024"
             tools="HTML • TailwindCSS • JavaScript"
           />
-         
         </div>
       </div>
     </section>
